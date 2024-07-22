@@ -6,3 +6,15 @@ RESET
     padding: 0;
     box-sizing: border-box;
 }
+
+/***************
+GENERAL
+***************/
+.container {
+    margin: auto;
+    text-align: center;
+}
+
+body div div {
+    margin-top: 20px;
+}
